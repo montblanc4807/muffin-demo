@@ -1,4 +1,4 @@
-:HL["/muffin-demo/_next/static/chunks/1cfye3ygyt1os.css","style"]
+:HL["/muffin-demo/_next/static/chunks/2v2szxd6x9u__.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"XplgBnebL54jf63YuHht3","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"iFbACc8ejHO7Lb5B6P3hJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
